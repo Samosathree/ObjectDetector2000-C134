@@ -1,0 +1,25 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #objnum
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    box-shadow: 10px 10px 10px #f5ff66;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+rect{
+    border-width: 50px;
+}
